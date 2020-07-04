@@ -11,7 +11,7 @@ function Layout({ children }) {
       </Head>
       <Navigation />
       <main>{children}</main>
-      <footer>design by Tolga Yonca</footer>
+      
     </div>
   )
 }

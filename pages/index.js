@@ -8,7 +8,7 @@ function HomePage() {
       <Head>
         <title>Anasayfa</title>
       </Head>
-      <h1>Home Page</h1>
+      <h1>Ana Sayfa</h1>
     </Layout>
   )
 }
